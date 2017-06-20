@@ -1,0 +1,73 @@
+The Return of Hate and Hosers (HOU Exclusive Previews)
+
+by SaffronOlive // Jun 20, 2017
+
+hour of devastation spoiler
+
+Six months ago, I wrote an article titled The Importance of Hate and Hosers in Standard, arguing that many of the problems with recent Standard formats came from the fact that Wizards was leaving answers on the sidelines. In the past, it was pretty much a tradition that one block would hate on the previous block (think Stony Silence in Innistrad to answer all of the powerful artifacts in Scars of Mirrodin and then Rest in Peace in Return to Ravnica to answer the graveyard theme of Innistrad). Maybe the most interesting part of this type of card is that pretty much everyone—from Wizards to the players—hopes that they don't actually see play. Ideally, the graveyard doesn't get too out of hand so nobody needs to play Rest in Peace, and artifacts aren't too over the top so Stony Silence stays on the sidelines. However, these cards perform an important role as a safety net—if things go too far, the format has a way of self-correcting, and we were missing these types of answers when Emrakul, the Promised End, Aetherworks Marvel, and Smuggler's Copter were breaking Standard. The good news is it seems that Wizards read the article and took it to heart because today I have not one but two exciting, new hateful hosers to show you from Hour of Devastation! Let's take a look at the cards, and then I'll share my thoughts on each individually.
+
+Crook of Condemnation
+Solemnity
+Crook of Condemnation
+
+While Crook of Condemnation might not look all that exciting, it's a hugely important card for Standard. While the artifact only does one thing (hate on graveyards), it actually does that one thing surprisingly well. Probably the easiest comparison is as a more expensive, non-cycling version of Relic of Progenitus, since it offers two different forms of graveyard hate, either picking apart the graveyard one card at a time or sweeping away all graveyards in one shot. While Crook of Condemnation is a less-powerful version of Relic of Progenitus overall, it's worth noting that it's much better than Relic of Progenitus in one important way: it lets you choose what card to exile with its first ability. This means you can snipe reanimation targets, embalm creatures, Prized Amalgams, or aftermath cards from  your opponent's graveyard for just a single mana, which is quite strong.
+
+Crook of Condemnation
+Relic of Progenitus [EMA]
+Tormod's Crypt [C14]
+So, just how good is Crook of Condemnation? As far as Standard is concerned, it's the best graveyard-disruption spell we've had since Tormod's Crypt was printed in the soon-to-be-returning Core sets, and it's strong enough that it actually serves the safety valve role quite well (a role other recent graveyard hate spells like Watchers of the Dead haven't been able to fulfill). If Crook of Condemnation had been in the format over the past couple of years, it's likely that Rally the Ancestors wouldn't have become so oppressive, and it's even possible that Emrakul, the Promised End would still be legal in Standard. Do I want to play this card in my decks? No. Am I happy it exists in case one of the many graveyard-based mechanics from Amonkhet gets out of control? Extremely.
+
+Oddly, Crook of Condemnation seems to have improved significantly thanks to the banning of Aetherworks Marvel, because the end of Marvel's reign of terror opens up the format for a couple of very powerful graveyard decks that couldn't quite keep up with Turn 4 Ulamog, the Ceaseless Hunger. Most obvious is GB(x) Delirium. In a world of where Vehicles decks are among the most powerful in the format, cards like Ishkanah, Grafwidow are great, and this isn't even including Grim Flayer, Traverse the Ulvenwald, and the rest of the powerful delirium cards in the format. Crook of Condemnation gives a great sideboard answer to make sure this deck doesn't take over the format. It's also reasonable against Zombies, taking away their ability to grind out the long game with Dread Wanderer and Relentless Dead, and a strong answer to Torrential Gearhulk from whatever control decks end up being popular in Hour of Devastation Standard. This, of course, doesn't include Amonkhet block mechanics like embalm and aftermath, which could move up the format with another set of support. As such, it seems very likely that Crook of Condemnation will be a very popular sideboard card in Hour of Devastation Standard. Anyways, enough rambling about Crook of Condemnation—let's move on to our second card: Solemnity!
+
+Solemnity
+
+Solemnity
+At first glance, Solemnity looks like an energy hoser, and while this was probably its original intention, it actually does much, much more than just hate on energy decks. Before talking about all the sweet things we can do with the enchantment, let's get the elephant out of the room: Solemnity is a bit worse today than it was a week ago, since it would have been one of the best answers to Aetherworks Marvel in the format. However, I'm not sure it would have been enough (and apparently Wizards agreed, since it took the drastic step of banning the artifact). Even without Aetherworks Marvel around, Solemnity hates on a ton of powerful and popular cards in Standard.
+
+
+Whirler Virtuoso [KLD]
+Longtusk Cub [KLD]
+Harnessed Lightning [KLD]
+Most obviously, Temur Energy is still a very playable deck and perhaps even one of the best decks in the format, and while it doesn't have an energy payoff as strong as Aetherworks Marvel, keeping the deck from going off with Whirler Virtuoso, Longtusk Cub, and Bristling Hydra while locking down removal like Harnessed Lightning is still pretty powerful. While I'm not sure a resolved Solemnity just beats Temur Energy on its own, it does make it much, much harder for the deck to execute its game plan. If this were all Solemnity did in Standard, its strength in sideboards would mostly depend on how good Temur Energy is in the format, but thankfully it does a lot more.
+
+
+Winding Constrictor [AER]
+Rishkar, Peema Renegade [AER]
+Verdurous Gearhulk [KLD]
+Another tier one deck in Standard is GB Constrictor, and Solemnity might be even better here than it is against Temur Energy. If you look at a standard GB Constrictor deck list, you'll see that Solemnity hates on almost every card in the deck. Winding Constrictor becomes a 2/3 without any abilities; Verdurous Gearhulk, Rishkar, Peema Renegade, and Nissa, Voice of Zendikar can't put counters on creatures; Glint-Sleeve Syphoner can't draw any cards; Longtusk Cub is also just a Grizzly Bear; and you can't even cast Greenbelt Rampager or Walking Ballista!
+
+
+Walking Ballista [AER]
+Speaking of Walking Ballista, I wasn't 100% sure how the interaction works (Magic is weird, so it seemed possible that "entering the battlefield with counters" was somehow different than "putting a counter on" a creature), so I double checked—not only does Solemnity keep you from putting counters on creatures (as with Walking Ballista's ability), but it also makes it so artifacts, creatures, enchantments, and lands enter the battlefield without any counters as well. This means that your Walking Ballista goes directly to the graveyard as soon as it's cast, which makes it another Standard all-star that gets hated out by Solemnity.
+
+All in all, as far as Standard is concerned, Solemnity is mostly a sideboard card but a very important one that hits a lot of the most played cards in the format and should help keep several major decks from getting too out of hand. However, the appeal of Solemnity isn't limited to Standard, so let's take a look at what it does in older formats.
+
+Solemnity in Modern
+
+In Modern, Solemnity actually serves two purposes. First, much like in Standard, it works as a hoser like Stony Silence, Rest in Peace, and Rule of Law. Just how good it will be in the format is up in the air, but it does seem reasonably effective against some popular decks, for example keeping Affinity from going wild with Arcbound Ravager counters. The problem with using Solemnity to fight a deck like Affinity is that Stony Silence generally does the same thing while also hating on a wide range of other decks like Tron and various artifact-based combo decks. That said, there are two matchups where Solemnity really shines and does something other cards can't do.
+
+
+Devoted Druid [SHM]
+Inkmoth Nexus [MBS]
+Most importantly, Solemnity locks down the increasingly popular Devoted Druid / Vizier of Remedies combo because it keep the Devoted Druid from untapping itself (since creatures can't have counters placed on them). The other matchup where Solemnity really shines is Infect, and while Infect has become less popular with the printing of Fatal Push and the banning of Gitaxian Probe, it's still around and could rise again in the future. Just like with energy counters in Standard, Solemnity keeps players from getting infect counters, which makes it almost impossible for the typical Infect deck to win the game while Solemnity is on the battlefield. While this might not be enough to get Solemnity into Modern sideboards right now, it could be important in the future.
+
+
+Kitchen Finks [MMA]
+Solemnity
+The other possibility for Solemnity in older formats is to use it aggressively as a combo piece. Probably the most competitive examples would be similar to the infinite life Kitchen Finks combo, which currently uses Anafenza, Kin-Tree Spirit or Melira, Sylvok Outcast. Solemnity does the same thing—with Kitchen Finks and a sacrifice outlet, we can sacrifice Kitchen Finks an infinite number of times, and since it can't have a -1/-1 counter on it, it just keeps coming back from the graveyard, giving us two life each time we go through the loop. The same thing can be done with Murderous Redcap for infinite damage or even Glen Elendra Archmage for infinite Negates. The question is whether it's better to use Solemnity in this role over Anafenza, Kin-Tree Spirit or Melira, Sylvok Outcast, and while the answer is generally no (mostly because Anafenza and Melira can be found with Chord of Calling and Collected Company while Solemnity cannot), it's worth keeping in mind because, as an enchantment, Solemnity is much harder to kill than a random Grizzly Bear.
+
+Solemnity in Legacy
+
+
+Dark Depths [V16]
+As far as being a hate card, Solemnity doesn't seem to do much in Legacy. In fact, looking over the most played cards in the format, the only thing Solemnity does is keep Chalice of the Void at zero (although since Solemnity doesn't come down until Turn 3 and Chalice of the Void is often played on Turn 1, it doesn't even really do this all that reliably). However, there is one interaction worth mentioning: Solemnity is another way to get a 20/20 flying, indestructible Marit Lage token onto the battlefield quickly. If you have a Solemnity on the battlefield, all you have to do is play Dark Depths, and it will immediately sacrifice itself (since it will have no counters) and give you the token. Whether or not any deck will take advantage of this is debatable. Lands already has access to this combo thanks to Thespian's Stage, and it's much easier to set up because they can simply Life from the Loam both pieces into (and back from) the graveyard. That said, it's possible there's some new build out there that wants to use Knight of the Reliquary to tutor up Dark Depths and combo off with the help of Solemnity.
+
+Wrap-Up
+
+From a micro perspective, neither Crook of Condemnation nor Solemnity is especially exciting. They're not the type of cards that you build deck lists around, and as I mentioned in the intro, they are cards that both players and Wizards hope don't end up in deck lists. However, from a meta perspective, these cards are huge. While they will likely have significant impact on Standard by serving as sideboard safety valves to keep graveyard, energy, and +1/+1 counters decks from getting too powerful and ruining the format, the bigger deal here is that they signal good things for Standard's​ future.
+
+The lack of cards like Crook of Condemnation and Solemnity over the past three years of Standard is the reason why Standard has struggled, culminating with an unheard of three Standard bannings over the past few months. The simple fact that Wizards is once again willing to print these types of cards is a huge deal for Standard and gives me a ton of faith that the format will once again return to a fun, healthy environment. Hate is back, and a bit more hate is exactly what Standard needs.
+
+Conclusion
+
+Anyway, that's all for today. Huge thanks to Wizards for hooking us up with some super-sweet preview cards (and also for putting answers back in Standard)! What do you think? Does the existence of Crook of Condemnation and Solemnity restore some of your faith in Standard after a rocky few months? Did I miss any important interactions or combos? Just how popular do you think these cards will be in Standard sideboards? Do they have any chance in Modern or Legacy? Let me know in the comments, and as always, you can reach me on Twitter @SaffronOlive or at SaffronOlive@MTGGoldfish.com.
