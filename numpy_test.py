@@ -13,7 +13,8 @@ c = np.dot(a, b)
 # print(c.shape)
 '''
 
-A = np.random.randn(4, 3)
-B = np.sum(A, axis=1, keepdims=True)
-print(B.shape)
-
+a = np.array([[4,3,2],[2,4,1]])
+print(np.sort(a))
+print(np.sort(a, axis=None))
+print(np.sort(a, axis=0))
+print(np.sort(a, axis=1))
