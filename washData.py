@@ -15,7 +15,7 @@ Ogl.index = range(len(Ogl))
 Ogl.loc[2,'ounces'] = Ogl[Ogl['food'].isin(['bacon'])].mean()['ounces']
 Ogl.index = range(len(Ogl))
 
-'''Change the minus value to real'''
+'''Change the minus value to abs'''
 Ogl.loc[6,'ounces'] = abs(Ogl.loc[6,'ounces'])
 Ogl.index = range(len(Ogl))
 
